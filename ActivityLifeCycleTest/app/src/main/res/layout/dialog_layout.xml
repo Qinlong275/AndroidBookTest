@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:andorid="http://schemas.android.com/apk/res/android"
+    andorid:orientation="vertical"
+    andorid:layout_width="match_parent"
+    andorid:layout_height="match_parent">
+
+    <TextView
+        andorid:layout_width="match_parent"
+        andorid:layout_height="wrap_content"
+        andorid:text="沒給錢還想聽歌，想得美"
+        />
+
+</LinearLayout>

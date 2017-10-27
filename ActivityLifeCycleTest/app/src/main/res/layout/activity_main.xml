@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:andorid="http://schemas.android.com/apk/res/android"
+    andorid:orientation="vertical"
+    andorid:layout_width="match_parent"
+    andorid:layout_height="match_parent">
+
+    <Button
+        andorid:id="@+id/start_normal_activity"
+        andorid:layout_width="match_parent"
+        andorid:layout_height="wrap_content"
+        andorid:text="秦龍的照片"/>
+    <Button
+        andorid:id="@+id/start_dialog_activity"
+        andorid:layout_width="match_parent"
+        andorid:layout_height="wrap_content"
+        andorid:text="秦龍唱的歌曲"/>
+    <Button
+        andorid:id="@+id/telephone"
+        andorid:layout_width="match_parent"
+        andorid:layout_height="wrap_content"
+        andorid:text="打給男神秦龍"/>
+
+</LinearLayout>
